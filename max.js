@@ -20,7 +20,7 @@ console.log('large number is: ', large);
 
 
 var equal ='All are equal.';
-// conpare between 3 numbers
+// conpare between 3 numbers ---task
 function largerBetweenThreeNums( first, second, third){
     if(first > second && first > third){
         return first;
