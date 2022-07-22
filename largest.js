@@ -14,3 +14,4 @@ const largeValue = largestElement(numbers);
 console.log(largeValue);
 
 
+// find the lowest number
